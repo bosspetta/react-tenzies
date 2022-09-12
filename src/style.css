@@ -50,6 +50,10 @@ main {
     cursor: pointer;
 }
 
+.die-face h2 {
+    opacity: 0;
+}
+
 .die-num {
     font-size: 2rem;
 }
